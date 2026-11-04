@@ -78,7 +78,7 @@ Login Page
 
 Executive Dashboard
 
-![Executive Dashboard](screenshots/Executive_dashboard.png)
+![Executive Dashboard](https://github.com/Addp4002/financial-consolidation-system/blob/main/financial_consolidation_project/SCREENSHOT/Financial%20Consolidation.png)
 
 Financial Data Management
 
