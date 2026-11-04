@@ -72,7 +72,7 @@ Financial charts and visualizations
 
 Login Page
  Login Page
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/Addp4002/financial-consolidation-system/blob/main/financial_consolidation_project/SCREENSHOT/login.png)
 
 
 
@@ -81,15 +81,18 @@ Executive Dashboard
 ![Executive Dashboard](https://github.com/Addp4002/financial-consolidation-system/blob/main/financial_consolidation_project/SCREENSHOT/Financial%20Consolidation.png)
 
 Financial Data Management
+![Financial Data](https://github.com/Addp4002/financial-consolidation-system/blob/main/financial_consolidation_project/SCREENSHOT/Financial%20Data%20Management.png)
 
 
 Financial Consolidation
 
 
+![Consolidation](https://github.com/Addp4002/financial-consolidation-system/blob/main/financial_consolidation_project/SCREENSHOT/Financial%20Consolidation.png)
 
 Financial Planning and Forecasting
 
-
+![Forecasting](https://github.com/Addp4002/financial-consolidation-system/blob/main/financial_consolidation_project/SCREENSHOT/Planning%20and%20Forecasting.png)
+![Forecasting 2](https://github.com/Addp4002/financial-consolidation-system/blob/main/financial_consolidation_project/SCREENSHOT/Planning%20%26%20Forecasting%202.png)
 
 4. Technology Stack
 
